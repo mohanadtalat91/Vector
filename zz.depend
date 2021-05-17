@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620387097 source:c:\users\mohanad\documents\zz\main.cpp
+	<iostream>
+	<cmath>
+	<cassert>
+
+1620387856 source:e:\c\c++ critical skills on udemy\data structures\2.vector\codes\vector\vector.cpp
+	<iostream>
+	<cmath>
+	<cassert>
+
